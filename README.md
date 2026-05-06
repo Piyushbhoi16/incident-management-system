@@ -298,8 +298,9 @@ It displays component ID, severity, status, and created time, with severity badg
 
 `docs/screenshots/work-items-api.png`
 
-### Architecture Diagram
-`docs/screenshots/architecture.png`
+## Architecture Diagram
+
+![Architecture](docs/screenshots/architecture.png)
 
 
 ## Known Limitations
