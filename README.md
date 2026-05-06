@@ -283,21 +283,16 @@ It displays component ID, severity, status, and created time, with severity badg
 ## Screenshots
 
 ### Dashboard
-
-`docs/screenshots/dashboard.png`
-
-### Docker Containers
-
-`docs/screenshots/docker.png`
+![Dashboard](docs/screenshots/dashboard.png)
 
 ### Health Endpoint
-
-`docs/screenshots/health-endpoint.png`
+![Health Endpoint](docs/screenshots/health-endpoint.png)
 
 ### Work Items API
+![Work Items API](docs/screenshots/work-items-api.png)
 
-`docs/screenshots/work-items-api.png`
-
+### Docker Containers
+![Docker Containers](docs/screenshots/docker-containers.png)
 ## Architecture Diagram
 
 ![Architecture](docs/screenshots/architecture.png)
