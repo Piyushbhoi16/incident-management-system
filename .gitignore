@@ -1,0 +1,12 @@
+.env
+.env.*
+.gocache/
+.cursor/
+bin/
+tmp/
+dist/
+build/
+coverage.out
+*.exe
+*.test
+*.log
